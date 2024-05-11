@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Калькулятор транспортного налога</string>
+    <string name="button_txt">Посчитать</string>
+    <string name="instruct_txt">Введите количество лошадиных сил автомобиля:</string>
+    <string name="rub_txt">руб.</string>
+    <integer name="lower">100</integer>
+    <integer name="middleLower">150</integer>
+    <integer name="middleHigher">200</integer>
+    <integer name="higher">250</integer>
+    <integer name="lowerCoef">105</integer>
+    <integer name="middleLowerCoef">145</integer>
+    <integer name="middleHigherCoef">350</integer>
+    <integer name="higherCoef">525</integer>
+    <integer name="veryHigherCoef">1050</integer>
+</resources>
